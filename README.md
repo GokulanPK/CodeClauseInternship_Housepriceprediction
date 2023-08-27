@@ -1,4 +1,7 @@
 HOUSE PRICE PREDICTION
+
+
+
 This repository contains a Python-based machine learning project for predicting house prices. Predicting house prices is a common and essential task in the real estate market, enabling buyers, sellers, and investors to make informed decisions. In this project, we utilize a dataset containing various features of houses to build and train a predictive model.
 
 Features
